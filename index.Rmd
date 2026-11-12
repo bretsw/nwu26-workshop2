@@ -150,11 +150,25 @@ include_graphics("img/1-2-EDS.png")
 
 # `r fa("fas fa-door-open", fill = "#fff")` 1. Introduction
 
-```{r, out.width = "35%", echo = FALSE, fig.align = "center"}
+.pull-left[
+```{r, out.width = "80%", echo = FALSE, fig.align = "center"}
 include_graphics("img/1-3-data-story.jpg")
 ```
+]
 
+.pull-right[
 ### Data Stories
+
+<br><br>
+<hr>
+
+**Key Terms:**
+
+- Digital Traces
+- API
+- R, Python, SQL
+
+]
 
 ---
 
@@ -222,6 +236,14 @@ class: inverse, center, middle
 
 # `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Part 3:<br>Examples of What Is Possible
 
+
+
+---
+
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Institutional Research
+
 ---
 
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
@@ -247,6 +269,12 @@ include_graphics("img/3-1b-ir-firstgen.png")
 https://ir.fsu.edu/
 
 
+
+---
+
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>FSU Innovation Hub
 
 ---
 
@@ -302,6 +330,12 @@ include_graphics("img/3-1g-innovation-sdl-outcomes-correlation-heatmap.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Wearable Technolgy
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "90%", echo = FALSE, fig.align = "center"}
@@ -324,6 +358,12 @@ include_graphics("img/3-2b-fitbit-heart-rate.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>SerpApi
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "60%", echo = FALSE, fig.align = "center"}
@@ -341,6 +381,12 @@ include_graphics("img/3-3a-serpapi-google-jobs.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Learning Management Systems
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "80%", echo = FALSE, fig.align = "center"}
@@ -353,6 +399,12 @@ include_graphics("img/3-3c-lms-logins.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>LinkedIn
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "60%", echo = FALSE, fig.align = "center"}
@@ -362,6 +414,12 @@ include_graphics("img/3-3d-linkedin-engagement.png")
 ### LinkedIn Engagement
 
 
+
+---
+
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Web Traffic
 
 ---
 
@@ -387,6 +445,12 @@ include_graphics("img/3-3e2-website-google-analytics.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Twitter
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
@@ -404,8 +468,6 @@ include_graphics("img/3-3f2-twitter-pandemic-means.png")
 ```
 
 ### Twitter: Pandemic Shift
-
-
 
 ---
 
@@ -471,6 +533,12 @@ include_graphics("img/3-3f8-twitter-urls.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Reddit
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "80%", echo = FALSE, fig.align = "center"}
@@ -509,8 +577,6 @@ include_graphics("img/3-3g4-reddit-teachers-SWOT.png")
 
 ### Reddit: r/Teachers SWOT Analysis
 
-
-
 ---
 
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
@@ -530,8 +596,6 @@ include_graphics("img/3-3g6-reddit-chatgpt-liwc.png")
 ```
 
 ### Reddit: ChatGPT Response LIWC
-
-
 
 ---
 
@@ -567,6 +631,12 @@ include_graphics("img/3-3g9-reddit-eldenring-term-prevalence.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>GitHub
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "90%", echo = FALSE, fig.align = "center"}
@@ -586,6 +656,12 @@ include_graphics("img/3-3h2-github-activity-hadley.png")
 ### GitHub: Hadley Wickham
 
 
+
+---
+
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Publishing
 
 ---
 
@@ -661,6 +737,12 @@ include_graphics("img/3-3i7-publishing-scite-top-terms.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Network Analysis
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "60%", echo = FALSE, fig.align = "center"}
@@ -723,6 +805,12 @@ include_graphics("img/3-4a6-ENA-AOSIS-SDL.png")
 
 ---
 
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Machine Learning
+
+---
+
 # `r fa("far fa-lightbulb", fill = "#fff")` 3. Examples
 
 ```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
@@ -742,6 +830,12 @@ include_graphics("img/3-4b2-ML-measures.png")
 ### Machine Learning Measures
 
 
+
+---
+
+class: inverse, center, middle
+
+# `r fa("far fa-lightbulb", fill = "#fff")` <br><br>Data Dashboards
 
 ---
 
