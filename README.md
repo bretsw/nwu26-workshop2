@@ -1,2 +1,7 @@
-# nwu26-workshop2
-  Slides for workshop at North-West University, Research Unit Self-Directed Learning: "Data Analytics Insights for SDL" 
+# Data Analytics Insights for SDL
+
+Workshop slide deck for: "Data Analytics Insights for SDL" (North-West University, South Africa).
+
+November 12, 2026
+
+![](img/sink.jpg)
